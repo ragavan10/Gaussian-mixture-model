@@ -109,5 +109,5 @@ imshow( "Result window", drawing);
     
 imwrite("backContour.jpg",drawing);
 waitKey(0);
-return 0;
+return 1;
 }
